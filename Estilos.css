@@ -1,0 +1,43 @@
+body{
+    font:20px Arial, Helvetica, sans-serif;
+    text-align: justify;
+    
+}
+.nav-link{
+    margin-left:25px ;
+}
+.logo{
+    width: 250px;
+    height: 70px;
+    margin-left: 20px; 
+}
+.navbar{
+    background-color: #5cb3ffb7;
+}
+.quem-somos{
+    background-color:#1d1d1d ;
+    color: white;
+    
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#afiliados{
+    margin-top:150px;
+    padding-bottom:25px ;
+    background-color: #1d1d1d;
+    color: white;
+}
+p{
+    padding-top: 10px;
+}
+.bg-footer{
+    background-color:#5cb3ffb7 ;
+    
+}    
+
+
+
+   
+    
